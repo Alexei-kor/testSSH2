@@ -27,7 +27,7 @@ public class DatabaseExample {
 		}
 		
 		catch (SQLException e) {
-			System.out.println("Fail");
+			System.out.println("Fail. no");
 			e.printStackTrace();
 		}
 		
